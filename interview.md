@@ -1,5 +1,7 @@
 # Interview project
 
+Unfortunately, I could not get to interview anyone because of everything that I have been dealing with, I will finish this as soon as I can.
+
 ## The user and a language
 
 This section describes who the project would serve and why a language might be a
